@@ -1,5 +1,6 @@
-# 💊 PharmaLit AI
-### AI-Powered Biomedical Literature Review & Research Intelligence Platform
+# 🔬 PharmaLit AI — Autonomous Biomedical Systematic Literature Review & Meta-Analysis Copilot
+
+> **AI-Powered Biomedical Research Studio** • Automates PubMed & Europe PMC federated literature mining, deep 18-parameter formulation extraction, and research gap discovery with 100% offline capability.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![UI](https://img.shields.io/badge/Interface-Streamlit-FF4B4B.svg)](https://streamlit.io/)
@@ -136,7 +137,7 @@ Double-click **`run.bat`** in the project folder.
 
 ### 5. 📑 Full-Text PDF Lab
 - Drag and drop research PDFs into the uploader.
-- The system automatically extracts text using PyMuPDF and segments the paper into: *Abstract*, *Introduction*, *Methods*, *Results*, *Discussion*, *Conclusion*, and *References*.
+- The system automatically extracts text using PyMuPDF and segments the paper into: *Abstract*, *Introduction*, *Methods*, *Results*, *Discussion*, *Conclusion*, and *References**.
 - Connects the uploaded PDF directly to its database record.
 
 ### 6. 💡 Research Gap Intelligence
